@@ -1,0 +1,8 @@
+Comments 
+
+1. Comments are notes in code
+
+2. Pyhton skips Comments
+
+3. Comments make code :
+Undersandable, readable, professional
